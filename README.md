@@ -259,6 +259,6 @@ https://www.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.convolution2dlaye
                                                  THE END
 
 
-                                                                                            Name: Mandla Sheshi Kiran Reddy
-                                                                                                Email-id: sheshikiranmandla2589@gmail.com
+                                                                                            Name: Deepta Kiran Das
+                                                                                                Email-id: deeptakirandas@gmail.com
 
